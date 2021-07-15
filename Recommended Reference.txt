@@ -1,0 +1,5 @@
+• Spark documentation (https://spark.apache.org/documentation.html)
+ • Hive documentation (https://cwiki.apache.org/confluence/display/Hive/Home)
+ • MySQL documentation (https://dev.mysql.com/doc/refman/5.5/en/)
+ • Python documentation (https://developers.google.com/edu/python/introduction and https: //matplotlib.org/users/intro.html) 
+• AWS documentation (https://docs.aws.amazon.com/)
